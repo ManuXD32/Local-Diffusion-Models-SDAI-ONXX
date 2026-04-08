@@ -1,3 +1,7 @@
+FORK to add vision encoder to the models to be able to run img2img inference for [AI Doomsday Toolbox](https://github.com/ManuXD32/AI-Doomsday-Toolbox) 
+
+
+
 # Local-Diffusion-Models-SDAI-ONXX
 
 Repo for hosting LocalDiffusion ONXX models for SDAI Android app.
